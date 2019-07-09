@@ -1,0 +1,283 @@
+{	
+	"gameConfig": [
+		 {
+			"width": 13,
+			"height": 9
+		},
+		{
+			"0": {
+				"0": {
+					"type": "Obstacle"
+				},
+				"3": {
+					"character": "Green"
+				},
+				"6": {
+					"type": "Obstacle"
+				},
+				"7": {
+					"type": "Exit",
+					"active": "true"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			},
+			"1": {
+				"0": {
+					"type": "Exit"
+				},
+				"1": {
+					"type": "Sewer"
+				},
+				"2": {
+					"type": "Lamp",
+					"active": "true",
+					"number": "1"
+				},
+				"4": {
+					"type": "Obstacle"
+				},
+				"5": {
+					"type": "Obstacle"
+				},
+				"6": {
+					"type": "Sewer", 
+					"active": "true"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			},
+			"2": {
+				"0": {
+					"type": "Obstacle"
+				},
+				"3": {
+					"type": "Sewer", 
+					"active": "true"
+				},
+				"4": {
+					"type": "Obstacle"
+				},
+				"6": {
+					"type": "Lamp",
+					"active": "true",
+					"number": "3"
+				},
+				"7": {
+					"type": "Obstacle"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			},
+			"3": {
+				"0": {
+					"type": "Obstacle"
+				},
+				"1": {
+					"type": "Obstacle"
+				},
+				"3": {
+					"type": "Obstacle"
+				},
+				"5": {
+					"type": "Obstacle"
+				},
+				"7": {
+					"type": "Obstacle"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			},
+			"4": {
+				"0": {
+					"type": "Obstacle"
+				},
+				"3": {
+					"character": "Blue"
+				},
+				"7": {
+					"character": "Purple"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			},
+			"5": {
+				"0": {
+					"type": "Obstacle"
+				},
+				"2": {
+					"type": "Obstacle"
+				},
+				"3": {
+					"type": "Lamp",
+					"active": "true"
+				},
+				"4": {
+					"type": "Obstacle"
+				},
+				"6": {
+					"type": "Obstacle"
+				},
+				"7": {
+					"type": "Lamp"
+				},
+				"8": {
+					"type": "Sewer", 
+					"active": "true"
+				}
+			},
+			"6": {
+				"2": {
+					"character": "Red"
+				},
+				"3": {
+					"type": "Sewer", 
+					"active": "true"
+				},
+				"5": {
+					"character": "Yellow"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			},
+			"7": {
+				"0": {
+					"type": "Sewer", 
+					"active": "true"
+				},
+				"1": {
+					"type": "Lamp",
+					"active": "true"
+				},
+				"2": {
+					"type": "Obstacle"
+				},
+				"4": {
+					"type": "Obstacle"
+				},
+				"5": {
+					"type": "Lamp",
+					"active": "true"
+				},
+				"6": {
+					"type": "Obstacle"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			},
+			"8": {
+				"0": {
+					"character": "Brown"
+				},
+				"4": {
+					"character": "Orange"
+				},
+				"7": {
+					"type": "Obstacle"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			},
+			"9": {
+				"0": {
+					"type": "Obstacle"
+				},
+				"1": {
+					"type": "Obstacle"
+				},
+				"3": {
+					"type": "Obstacle"
+				},
+				"5": {
+					"type": "Obstacle"
+				},
+				"7": {
+					"type": "Obstacle"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			},
+			"10": {
+				"0": {
+					"type": "Obstacle"
+				},
+				"1": {
+					"type": "Lamp",
+					"active": "true",
+					"number": 4
+				},
+				"3": {
+					"type": "Obstacle"
+				},
+				"4": {
+					"type": "Sewer", 
+					"active": "true"
+				},
+				"5": {
+					"type": "Obstacle"
+				},
+				"7": {
+					"type": "Obstacle"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			},
+			"11": {
+				"0": {
+					"type": "Obstacle"
+				},
+				"2": {
+					"type": "Sewer", 
+					"active": "true"
+				},
+				"3": {
+					"type": "Obstacle"
+				},
+				"4": {
+					"type": "Obstacle"
+				},
+				"6": {
+					"type": "Lamp",
+					"active": "true",
+					"number": "2"
+				},
+				"7": {
+					"type": "Sewer"
+				},
+				"8": {
+					"type": "Exit"
+				}
+			}, 
+			"12": {
+				"0": {
+					"type": "Exit",
+					"active": "true"
+				},
+				"1": {
+					"type": "Obstacle"
+				},
+				"4": {
+					"character": "Black"
+				},
+				"7": {
+					"type": "Obstacle"
+				},
+				"8": {
+					"type": "Obstacle"
+				}
+			}
+		}
+	]
+
+}
+	 
